@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
+<Placemark>
+<name><![CDATA[moran]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:42:68</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-85</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21134308,32.10487307</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:42:68</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-85</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21134308,32.10487307</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:44:58</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-88</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21134308,32.10487307</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:44:58</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-77</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21107852,32.1050222</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:16:2d:e8</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-88</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21107852,32.1050222</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:25:48</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-88</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21092655,32.10503208</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:16:05:38</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-90</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21060853,32.10495375</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:ed:48</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-89</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21044203,32.10490203</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:44:88</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-88</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21044203,32.10490203</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:16:2d:e8</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-83</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21044203,32.10490203</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[yosh]]></name>
+<description><![CDATA[BSSID: <b>00:11:6b:11:7e:0c</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-84</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21044203,32.10490203</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:16:05:38</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-82</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21044203,32.10490203</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:15:41:78</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-90</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21025994,32.1048406</coordinates></Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Ariel_University]]></name>
+<description><![CDATA[BSSID: <b>1c:b9:c4:14:2b:c8</b><br/>Capabilities: <b>[ESS]</b><br/>Frequency: <b>-90</b><br/>Timestamp: <b>02/12/2018 20:48:37</b><br/>Date: <b>03/12/2017 8:53</b>]]></description><styleUrl>#red</styleUrl>
+<Point>
+<coordinates>35.21025994,32.1048406</coordinates></Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
